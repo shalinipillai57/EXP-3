@@ -40,9 +40,11 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+![img](d3ot.png)
 Tabulation:1
 ![img](ex21.jpeg)
 Cross connection:
+![img](ex3ot.jpeg)
 Tabulation:2
 ![img](ex22.jpeg)
 RESULT:
